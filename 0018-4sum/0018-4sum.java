@@ -23,7 +23,7 @@ class Solution {
                     long sum = (long) nums[i] + nums[j] + nums[left] + nums[right]; 
                     if (sum == target) {
                         // 找到一个四元组，加入结果列表
-                        res.add(Arrays.asList(nums[i], nums[j], nums[left], nums[right]));
+                    res.add(Arrays.asList(nums[i], nums[j], nums[left], nums[right]));
 
                         // 跳过重复的第三个数
                         while (left < right && nums[left] == nums[left + 1]) left++;
