@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sxw77435/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sxw77435/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/sxw77435/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/sxw77435/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/sxw77435/LeetCode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/sxw77435/LeetCode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/sxw77435/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sxw77435/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sxw77435/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sxw77435/LeetCode/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/sxw77435/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/sxw77435/LeetCode/tree/master/0283-move-zeroes) |
 | [0874-backspace-string-compare](https://github.com/sxw77435/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/sxw77435/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sxw77435/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sxw77435/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sxw77435/LeetCode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/sxw77435/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sxw77435/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Matrix
 |  |
