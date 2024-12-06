@@ -23,22 +23,19 @@
 //第二种
 class Solution {
     public int maxProfit(int[] prices) {
-        // 初始化最低买入价格为无穷大，最大利润为 0
-        int minPrice = Integer.MAX_VALUE;
-        int maxProfit = 0;
-
-        // 遍历数组
-        for (int price : prices) {
-            // 更新最低买入价格
-            if (price < minPrice) {
-                minPrice = price;
-            } else if (price - minPrice > maxProfit) {
-                // 计算当前利润并更新最大利润
-                maxProfit = price - minPrice;
+        int lsf = Integer.MAX_VALUE;
+        int op = 0;
+        int pist = 0;
+        
+        for(int i = 0; i < prices.length; i++){
+            if(prices[i] < lsf){
+                lsf = prices[i];
+            }
+            pist = prices[i] - lsf;
+            if(op < pist){
+                op = pist;
             }
         }
-
-        return maxProfit; // 返回最大利润
+        return op;
     }
 }
-
