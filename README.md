@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sxw77435/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sxw77435/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sxw77435/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/sxw77435/LeetCode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/sxw77435/LeetCode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/sxw77435/LeetCode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/sxw77435/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
