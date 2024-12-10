@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sxw77435/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/sxw77435/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/sxw77435/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sxw77435/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/sxw77435/LeetCode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/sxw77435/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sxw77435/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sxw77435/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sxw77435/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sxw77435/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sxw77435/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sxw77435/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sxw77435/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sxw77435/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/sxw77435/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/sxw77435/LeetCode/tree/master/0792-binary-search) |
 ## Two Pointers
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sxw77435/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/sxw77435/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sxw77435/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sxw77435/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0874-backspace-string-compare](https://github.com/sxw77435/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/sxw77435/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sxw77435/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sxw77435/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sxw77435/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sxw77435/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/sxw77435/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Matrix
 |  |
