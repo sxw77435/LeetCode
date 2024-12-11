@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sxw77435/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sxw77435/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/sxw77435/LeetCode/tree/master/0455-assign-cookies) |
+| [0463-island-perimeter](https://github.com/sxw77435/LeetCode/tree/master/0463-island-perimeter) |
 | [0792-binary-search](https://github.com/sxw77435/LeetCode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/sxw77435/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sxw77435/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sxw77435/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0463-island-perimeter](https://github.com/sxw77435/LeetCode/tree/master/0463-island-perimeter) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -173,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sxw77435/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/sxw77435/LeetCode/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/sxw77435/LeetCode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
