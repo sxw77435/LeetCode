@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sxw77435/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/sxw77435/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/sxw77435/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/sxw77435/LeetCode/tree/master/0495-teemo-attacking) |
 | [0792-binary-search](https://github.com/sxw77435/LeetCode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/sxw77435/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sxw77435/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sxw77435/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0495-teemo-attacking](https://github.com/sxw77435/LeetCode/tree/master/0495-teemo-attacking) |
 | [0874-backspace-string-compare](https://github.com/sxw77435/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Sorting
 |  |
