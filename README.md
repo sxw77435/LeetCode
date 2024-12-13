@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sxw77435/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sxw77435/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/sxw77435/LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/sxw77435/LeetCode/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/sxw77435/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sxw77435/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/sxw77435/LeetCode/tree/master/0118-pascals-triangle) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/sxw77435/LeetCode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/sxw77435/LeetCode/tree/master/0068-text-justification) |
 | [0874-backspace-string-compare](https://github.com/sxw77435/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sxw77435/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sxw77435/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/sxw77435/LeetCode/tree/master/0068-text-justification) |
 | [0495-teemo-attacking](https://github.com/sxw77435/LeetCode/tree/master/0495-teemo-attacking) |
 | [0874-backspace-string-compare](https://github.com/sxw77435/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Sorting
