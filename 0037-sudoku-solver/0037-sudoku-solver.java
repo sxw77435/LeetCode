@@ -7,43 +7,41 @@
 每列的数字 1-9 不能重复。
 每个 3x3 子格的数字 1-9 不能重复。
 */
-class Solution {
+public class Solution {
     public void solveSudoku(char[][] board) {
-        backtrack(board);
+        if(board == null || board.length == 0)
+            return;
+        solve(board);
     }
-
-    private boolean backtrack(char[][] board) {
-        for (int row = 0; row < 9; row++) {
-            for (int col = 0; col < 9; col++) {
-                if (board[row][col] == '.') {
-                    for (char num = '1'; num <= '9'; num++) { // 尝试填入 '1'-'9'
-                        if (isValid(board, row, col, num)) {
-                            board[row][col] = num; // 放置数字
-                            if (backtrack(board)) { // 递归
-                                return true;
-                            }
-                            board[row][col] = '.'; // 回溯
+    
+    public boolean solve(char[][] board){
+        for(int i = 0; i < board.length; i++){
+            for(int j = 0; j < board[0].length; j++){
+                if(board[i][j] == '.'){
+                    for(char c = '1'; c <= '9'; c++){//trial. Try 1 through 9
+                        if(isValid(board, i, j, c)){
+                            board[i][j] = c; //Put c for this cell
+                            
+                            if(solve(board))
+                                return true; //If it's the solution return true
+                            else
+                                board[i][j] = '.'; //Otherwise go back
                         }
                     }
-                    return false; // 如果没有数字可以放置，返回 false
+                    
+                    return false;
                 }
             }
         }
-        return true; // 所有空格已填满
+        return true;
     }
-
-    private boolean isValid(char[][] board, int row, int col, char num) {
-        for (int i = 0; i < 9; i++) {
-            // 检查行和列
-            if (board[row][i] == num || board[i][col] == num) {
-                return false;
-            }
-            // 检查 3x3 子格
-            int boxRow = 3 * (row / 3) + i / 3;
-            int boxCol = 3 * (col / 3) + i % 3;
-            if (board[boxRow][boxCol] == num) {
-                return false;
-            }
+    
+    private boolean isValid(char[][] board, int row, int col, char c){
+        for(int i = 0; i < 9; i++) {
+            if(board[i][col] != '.' && board[i][col] == c) return false; //check row
+            if(board[row][i] != '.' && board[row][i] == c) return false; //check column
+            if(board[3 * (row / 3) + i / 3][ 3 * (col / 3) + i % 3] != '.' && 
+board[3 * (row / 3) + i / 3][3 * (col / 3) + i % 3] == c) return false; //check 3*3 block
         }
         return true;
     }
