@@ -1,3 +1,4 @@
+//使用单调栈
 class Solution{
     public int[] nextGreaterElement(int[] findNums, int[] nums) {
         Map<Integer, Integer> map = new HashMap<>(); 
