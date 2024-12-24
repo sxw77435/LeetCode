@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sxw77435/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/sxw77435/LeetCode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/sxw77435/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/sxw77435/LeetCode/tree/master/0500-keyboard-row) |
 | [0792-binary-search](https://github.com/sxw77435/LeetCode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/sxw77435/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sxw77435/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sxw77435/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sxw77435/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/sxw77435/LeetCode/tree/master/0500-keyboard-row) |
 ## Math
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/sxw77435/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/sxw77435/LeetCode/tree/master/0068-text-justification) |
+| [0500-keyboard-row](https://github.com/sxw77435/LeetCode/tree/master/0500-keyboard-row) |
 | [0874-backspace-string-compare](https://github.com/sxw77435/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
