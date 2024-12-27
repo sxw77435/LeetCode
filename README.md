@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sxw77435/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/sxw77435/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/sxw77435/LeetCode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/sxw77435/LeetCode/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/sxw77435/LeetCode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/sxw77435/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sxw77435/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/sxw77435/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/sxw77435/LeetCode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/sxw77435/LeetCode/tree/master/0561-array-partition) |
 | [1019-squares-of-a-sorted-array](https://github.com/sxw77435/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Matrix
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sxw77435/LeetCode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/sxw77435/LeetCode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/sxw77435/LeetCode/tree/master/0561-array-partition) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -228,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/sxw77435/LeetCode/tree/master/0506-relative-ranks) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/sxw77435/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
