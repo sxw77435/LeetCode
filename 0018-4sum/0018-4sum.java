@@ -23,13 +23,12 @@ class Solution {
                         d--;
                     } else {
                         result.add(Arrays.asList(nums[i], nums[j], nums[k], nums[d]));
-                        
-                        // 跳过重复的 k 和 d
-                        while (k < d && nums[k] == nums[k + 1]) k++;
-                        while (k < d && nums[d] == nums[d - 1]) d--;
-
                         k++;
                         d--;
+                        
+                        // 跳过重复的 k 和 d
+                        while (k < d && nums[k] == nums[k - 1]) k++;
+                        while (k < d && nums[d] == nums[d + 1]) d--;
 
                         
                     }
