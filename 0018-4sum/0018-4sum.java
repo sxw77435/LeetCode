@@ -1,47 +1,42 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
-        List<List<Integer>> res = new ArrayList<>();
-        
-        // 1. 排序数组
+        List<List<Integer>> result = new ArrayList<>();
         Arrays.sort(nums);
 
-        // 2. 外层循环，固定第一个数
-        for (int i = 0; i < nums.length - 3; i++) {
-            // 跳过重复的第一个数
+        int n = nums.length;
+
+        for (int i = 0; i < n - 3; i++) {
             if (i > 0 && nums[i] == nums[i - 1]) continue;
 
-            // 3. 第二层循环，固定第二个数
-            for (int j = i + 1; j < nums.length - 2; j++) {
-                // 跳过重复的第二个数
+            for (int j = i + 1; j < n - 2; j++) {
                 if (j > i + 1 && nums[j] == nums[j - 1]) continue;
 
-                // 4. 使用双指针，寻找第三和第四个数
-                int left = j + 1;
-                int right = nums.length - 1;
+                int k = j + 1;
+                int d = n - 1;
 
-                while (left < right) {
-                    long sum = (long) nums[i] + nums[j] + nums[left] + nums[right]; 
-                    if (sum == target) {
-                        // 找到一个四元组，加入结果列表
-                    res.add(Arrays.asList(nums[i], nums[j], nums[left], nums[right]));
+                while (k < d) {
+                    long sum = (long) nums[i] + nums[j] + nums[k] + nums[d]; // 防止整型溢出！
 
-                        // 跳过重复的第三个数
-                        while (left < right && nums[left] == nums[left + 1]) left++;
-                        // 跳过重复的第四个数
-                        while (left < right && nums[right] == nums[right - 1]) right--;
-
-                        // 移动指针，继续查找
-                        left++;
-                        right--;
-                    } else if (sum < target) {
-                        left++; // 当前和小于目标值，左指针右移
+                    if (sum < target) {
+                        k++;
+                    } else if (sum > target) {
+                        d--;
                     } else {
-                        right--; // 当前和大于目标值，右指针左移
+                        result.add(Arrays.asList(nums[i], nums[j], nums[k], nums[d]));
+                        
+                        // 跳过重复的 k 和 d
+                        while (k < d && nums[k] == nums[k + 1]) k++;
+                        while (k < d && nums[d] == nums[d - 1]) d--;
+
+                        k++;
+                        d--;
+
+                        
                     }
                 }
             }
         }
 
-        return res; // 返回结果
+        return result;
     }
 }
